@@ -1,6 +1,6 @@
 Bluetooth Low Energy with Android and Arduino
 ========================================================
-Chapter 5: Shaking Hands
+Chapter 6: Services and Characteristics
 ---------------------------------------------
 
 These are **complete downloadable code examples** from my book, _Bluetooth Low Energy with Android and Arduino_ (<url>).  The book teaches how to make Bluetooth Low Energy devices talk using Arduino in Java and Android in C++.
