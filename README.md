@@ -6,7 +6,7 @@ Chapter 5: Shaking Hands
 These are **complete downloadable code examples** from my book, _Bluetooth Low Energy with Android and Arduino_ (<url>).  The book teaches how to make Bluetooth Low Energy devices talk using Arduino in Java and Android in C++.
 
 This chapter teaches:
-* Arduino: Create a GATT Profile - a Service and Characteristic configuration
+* Arduino: Create a GATT Profile (Service and Characteristic) configuration
 * Android: List the GATT Profile (Services and Characteristics) of a Peripheral
 
 The Book
